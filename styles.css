@@ -236,3 +236,15 @@ h2 {
     border-bottom: 3px solid #333; /* Đường viền dưới */
     padding-bottom: 5px; /* Khoảng cách phía dưới đường viền */
 }
+
+.center-images {
+    text-align: center;
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: 400px;
+    margin-bottom: 10px; /* Adjust as needed */
+}

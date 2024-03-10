@@ -237,14 +237,15 @@ h2 {
     padding-bottom: 5px; /* Khoảng cách phía dưới đường viền */
 }
 
-.center-images {
-    text-align: center;
+.left-align-images {
+    text-align: left;
 }
 
-.center-image {
+.left-align-image {
     display: block;
-    margin: 0 auto;
+    margin-right: auto;
     max-width: 100%;
-    height: 400px;
+    height: auto;
     margin-bottom: 10px; /* Adjust as needed */
 }
+
